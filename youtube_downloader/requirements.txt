@@ -1,0 +1,5 @@
+pytube
+mysql-connector-python
+google-cloud-firestore
+python-dotenv
+ttkbootstrap
